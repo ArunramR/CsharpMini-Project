@@ -165,8 +165,8 @@ public class Program
 {
     static void Main()
     {
-		string name = "Likith Nirvan";
-    string usn = "4MH21CS044";
+		string name = "Arunram R";
+    string usn = "4MH21CS008";
     string faculty = "Victor Sir";
 	
 				Console.WriteLine("Name: " + name);
